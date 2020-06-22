@@ -1,0 +1,9 @@
+**
+.**
+!.gitignore
+!.bashrc*
+!.vimrc
+!.vim/
+!.vim/**
+!.i3/
+!.i3/**

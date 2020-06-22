@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/jvrh/Documents/monitoraTracker/monitora-tracker'
+let g:netrw_dirhist_3='/home/jvrh/Documents/monitoraTracker/monitora-tracker/src/components/Mdu'
+let g:netrw_dirhist_2='/home/jvrh/Documents/monitoraTracker/monitora-tracker/src/components'
+let g:netrw_dirhist_1='/home/jvrh/Documents/monitoraTracker/monitora-tracker/src'
+let g:netrw_dirhist_0='/home/jvrh/Documents/monitoraTracker/monitora-tracker'
+let g:netrw_dirhist_9='/home/jvrh/Documents/monitoraTracker/monitora-tracker/src/components/Certificate'
+let g:netrw_dirhist_8='/home/jvrh/Documents/monitoraTracker/monitora-tracker/src/components'
+let g:netrw_dirhist_7='/home/jvrh/Documents/monitoraTracker/monitora-tracker/src'
+let g:netrw_dirhist_6='/home/jvrh/Documents/monitoraTracker/monitora-tracker'
+let g:netrw_dirhist_5='/home/jvrh/Documents/monitoraTracker/monitora-tracker/src/components/Mdu'
